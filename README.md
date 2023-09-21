@@ -15,7 +15,7 @@ What is provided by GWR:
   o	One for all monitoring values
   o	One for all monitoring points
 •	The GWR ACCESS CODE that allow you to fetch the data corresponding to the data you want. 
-•	The request script in Python as an HTML. It can be used by copy pasting and running the python requests in your workflow:
+•	The request script in Python. It can be used by copy pasting and running the python requests in your workflow:
   o	As a courtesy, it includes an example of the merge to be done to link the 2 tables (monitoring values and monitoring points) (PLEASE DO NOT TAKE THIS AS THE CORRECT WAY AND MERGE AS YOU NEED). 
   o	It also includes examples of function to be called to manipulate the data once extracted from the WDR DB.
 
