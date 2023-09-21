@@ -1,7 +1,7 @@
 # WaterDataRocks
 Scripts related to the WaterDataRocks App
 
-This memorandum is here to provide a guidance on how to link client/external database (EXT DB) to WaterDataRocks Database (WDR DB).
+It provides a guidance on how to link client/external database (EXT DB) to WaterDataRocks Database (WDR DB).
 
 Objective: Obtain the data stored in WDR DB via a Python request.
 Groundwater Relief provides you with endpoints allowing you to obtain the data stored in WDR DB.
