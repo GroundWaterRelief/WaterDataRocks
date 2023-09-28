@@ -23,3 +23,9 @@ Once the GET data from the WDR DB, it is up to the client to:
 •	Manipulate the data to map them to the client database (it can be done via a python script for instance),
 •	Insert the data to the client database,
 •	Export the data in a different format if deemed necessary.
+
+Security: 
+The script to "how to" connect to the WDR DB is open-source however, data are password protected. You wont'be able to access any data without the password.
+If you require the password or have lost the password provided by GWR, please send an email to waterdatarocks@groundwater-relief.org.
+
+
